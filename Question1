@@ -1,0 +1,23 @@
+Question1:
+
+Ans: START
+
+     INPUT number1
+
+     INPUT number2
+
+     INPUT number3
+
+     IF number1>number2 AND number1>number3 THEN
+
+       PRINT “number1 is largest”
+
+     ELSE IF number2>number1 AND number2>number3 THEN
+
+       PRINT “number2 is largest”
+
+    ELSE
+
+       PRINT “number3 is largest”
+
+    END
